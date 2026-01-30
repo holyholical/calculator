@@ -7,11 +7,17 @@ It supports basic arithmetic operations and can be easily extended with optional
 
 ## ✨ Features
 
+### Basic Arithmetic
 - ➕ Addition
 - ➖ Subtraction
 - ✖️ Multiplication
 - ➗ Division
-- 🔢 Clean modular C design
-- 🖥️ Runs in any POSIX-compatible terminal
+
+### Scientific Functions
+- 📐 Sine (`sin`)
+- 📐 Cosine (`cos`)
+- 📐 Tangent (`tan`)
+- √ Square root (`sqrt`)
+- 🔢 Power (`pow`)
 
 > Scientific functions (power, square root, trigonometry) can be added as modules.
