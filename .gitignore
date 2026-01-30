@@ -1,0 +1,45 @@
+# Build directories
+/build/
+cmake-build-*/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Compiled objects & libraries
+*.o
+*.a
+*.so
+
+# Executables (Linux / Unix)
+# common names
+a.out
+app
+calculator
+calculator_app
+
+# any executable file with no extension (best-effort)
+*.elf
+
+# Windows / macOS executables
+*.exe
+*.dll
+*.dSYM/
+
+# Debug / profiling
+*.gcda
+*.gcno
+*.gcov
+
+# Editor / OS junk
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
